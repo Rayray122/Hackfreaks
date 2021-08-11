@@ -60,12 +60,12 @@ I Can make your group management fun and easy!
 Press or type /help to Get to know about my Modules
 ==========================
 ✗ Updates Channel 
-- @HackfreaksUpdates
+- @chatbotnoelle
 
 ✗ Support Group 
-- @HackfreaksSupport
+- @noelle_devs
 
-Maintained by @MaskedVirus
+Maintained by @jail_break_arc
 Wanna Add me to your Group? Just click the button below!
 """
 
